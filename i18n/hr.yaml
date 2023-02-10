@@ -1,0 +1,20 @@
+- id: get-started
+  translation: "Započnimo!"
+
+- id: on-this-page
+  translation: "On this page"
+
+- id: search-text
+  translation: "Pretražite..."
+
+- id: 404-title
+  translation: "Stranica nije pronađena :("
+
+- id: 404-text
+  translation: "Stranica koju ste tražili možda je pomaknuta ili u potpunosti izbrisana"
+
+- id: browse
+  translation: "Browse"
+
+- id: Introduction
+  translation: "Uvod"

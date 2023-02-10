@@ -1,8 +1,8 @@
 [[docs]]
-  name = "Introduction"
+  name = "Uvod"
   weight = 10
-  identifier = "Introduction"
-  url = "/docs/introduction/"
+  identifier = "uvod"
+  url = "/docs/uvod/"
 
 [[social]]
   name = "GitHub"
