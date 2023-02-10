@@ -1,7 +1,7 @@
 [hr]
   languageName = "Hrvatski"
   contentDir = "content/hr"
-  weight = 10
+  weight = 15
   [hr.params]
     languageISO = "HR"
     footer = "Napravljeno sa ❤️ koristeći <a href=\"https://gohugo.io/\">Hugo</a> i <a href=\"https://gohugo.io/\">Doks</a>"
@@ -10,7 +10,7 @@
 [en]
   languageName = "English"
   contentDir = "content/en"
-  weight = 10
+  weight = 15
   [en.params]
     languageISO = "EN"
     footer = "Made with ❤️ using <a href=\"https://gohugo.io/\">Hugo</a> and <a href=\"https://gohugo.io/\">Doks</a>"
