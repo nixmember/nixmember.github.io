@@ -10,10 +10,10 @@
         <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}uvod/o-programu/" role="button">{{ i18n "get-started" }}</a>
       {{ end }}
       {{ if eq $.Site.Language.LanguageName "English" }}
-        <a class="btn btn-primary btn-lg px-4 mb-2" href="en/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}introduction/about/" role="button">{{ i18n "get-started" }}</a>
+        <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}introduction/about/" role="button">{{ i18n "get-started" }}</a>
       {{ end }}
       {{ if eq $.Site.Language.LanguageName "Deutsch" }}
-        <a class="btn btn-primary btn-lg px-4 mb-2" href="de/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}einfuhrung/about/" role="button">{{ i18n "get-started" }}</a>
+        <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}einfuhrung/about/" role="button">{{ i18n "get-started" }}</a>
       {{ end }}
       </div>
   </div>
