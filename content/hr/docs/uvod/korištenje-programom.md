@@ -17,4 +17,4 @@ Poslije odabira jezika dolazi opcija Setup - kada odaberete Setup prezentirani s
 
 Video tutorial:
 
-{{< video ratio="16x9" attributes="controls autoplay muted" mp4-src="videos/tutorial.mp4" >}}
+{{< video ratio="16x9" attributes="controls" mp4-src="videos/tutorial.mp4" >}}
