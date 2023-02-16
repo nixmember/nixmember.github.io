@@ -14,17 +14,17 @@ toc: true
 Iz komandne linije vašega servera pokrenite sljedeću komandu kako bi instalirali programe potrebne za NixMember:
 
 ```bash
-sudo apt install git bash curl
+# apt install git bash curl sudo
 ```
 
 Nakon toga, potrebno je skinuti program na Vaš server:
 
 ```bash
-git clone https://github.com/nixmember/nixmember && cd nixmember
+# git clone https://github.com/nixmember/nixmember && cd nixmember
 ```
 
 Te pokrenuti program:
 
 ```bash
-./base.sh
+# ./base.sh
 ```
