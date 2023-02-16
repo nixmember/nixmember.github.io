@@ -14,7 +14,7 @@ toc: true
 Führen Sie in der Befehlszeile Ihres Servers den folgenden Befehl aus, um die für NixMember erforderlichen Programme zu installieren:
 
 ```bash
-sudo apt install git bash
+sudo apt install git bash curl
 ```
 
 Danach müssen Sie das Programm auf Ihren Server herunterladen:
